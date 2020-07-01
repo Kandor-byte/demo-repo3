@@ -6,6 +6,6 @@ Some text.
 
 Some description
 
-## Subheader2
+## Local Development
 
-Open index.html.
+1. Open index.html in your browser.
